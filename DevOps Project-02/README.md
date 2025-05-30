@@ -1,6 +1,6 @@
 # Deploy Scalable VPC Architecture on AWS Cloud
 
-![AWS-Cloud](https://github.com/khaledredaa1/Projects/blob/main/DevOps%20Project-02/Images/Image1.jpeg)
+![AWS-Cloud](https://github.com/khaledredaa1/Projects/blob/main/DevOps%20Project-02/Images/Image.jpeg)
 
 ### TABLE OF CONTENTS
 1. [Goal](https://github.com/khaledredaa1/Projects/blob/master/DevOps%20Project-02/README.md#goal)
